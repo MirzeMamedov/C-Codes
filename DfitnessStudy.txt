@@ -1,0 +1,5 @@
+101|Cardiovascular Endurance|Trainer Smith|30.500000,32.000000,29.799999,31.200001,33.000000
+202|Strength Training Analysis|Trainer Johnson|50.200001,48.500000,49.799999,51.000000,50.500000
+303|Yoga and Meditation|Trainer Davis|15.200000,17.500000,14.800000,16.000000,18.200001
+404|Nutrition Impact Study|Trainer Miller|62.099998,60.500000,63.200001,61.799999,60.000000
+505|High-Intensity Interval Training|Trainer Brown|95.199997,97.500000,94.800003,96.000000,9.000000
